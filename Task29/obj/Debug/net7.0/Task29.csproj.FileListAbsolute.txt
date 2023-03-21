@@ -1,0 +1,15 @@
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\obj\Debug\net7.0\Task29.csproj.AssemblyReference.cache
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\obj\Debug\net7.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\obj\Debug\net7.0\Task29.AssemblyInfoInputs.cache
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\obj\Debug\net7.0\Task29.AssemblyInfo.cs
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\obj\Debug\net7.0\Task29.csproj.CoreCompileInputs.cache
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\bin\Debug\net7.0\Task29.exe
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\bin\Debug\net7.0\Task29.deps.json
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\bin\Debug\net7.0\Task29.runtimeconfig.json
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\bin\Debug\net7.0\Task29.dll
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\bin\Debug\net7.0\Task29.pdb
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\obj\Debug\net7.0\Task29.dll
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\obj\Debug\net7.0\refint\Task29.dll
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\obj\Debug\net7.0\Task29.pdb
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\obj\Debug\net7.0\Task29.genruntimeconfig.cache
+C:\Users\Jilia\Desktop\Seminar C\HomeWorkC\Task29\obj\Debug\net7.0\ref\Task29.dll
